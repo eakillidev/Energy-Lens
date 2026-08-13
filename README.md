@@ -6,6 +6,8 @@ Energy Lens is a full-stack web application designed to help users monitor and m
 
 This project was developed as a Capstone II project with a focus on creating a simple, practical interface for understanding home electricity usage.
 
+**[Live Demo](https://ihms-demo.onrender.com/)**
+
 ## Features
 
 - Login and signup interface
